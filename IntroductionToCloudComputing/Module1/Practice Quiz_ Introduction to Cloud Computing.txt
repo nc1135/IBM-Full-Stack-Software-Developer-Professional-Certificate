@@ -1,0 +1,39 @@
+Question 1
+Which characteristic of cloud computing enables cost savings by serving multiple consumers?
+
+A)On-demand self-service
+B)Public cloud models
+C)Resource pooling
+D)Broad network access
+
+Answer: C
+
+Question 2
+Which 1950s network feature helped evolve Virtual Machines (VMs)?
+
+A)Shared access to a mainframe
+B)Measured service
+C)Security, compliance, and performance
+D)Broad network access
+
+Answer: A
+
+Question 3
+What are some cloud computing benefits?
+
+A)Offline capability and security
+B)Competitive advantage, flexibility, and efficiency
+C)Purchasing off-the-shelf software and upgrades
+D)Diversity of standardization
+
+Answer: B
+
+Question 4
+Which of these vendors is known more for their SaaS offerings?
+
+A)Intel
+B)Salesforce
+C)Amazon Web Services
+D)Alibaba Cloud
+
+Answer: B
