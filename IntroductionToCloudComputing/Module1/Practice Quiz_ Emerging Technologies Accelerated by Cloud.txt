@@ -1,0 +1,29 @@
+Question 1
+How does Cloud connectivity support IoT devices?
+
+A)Draw insights from data collected from the IoT devices and users
+B)Provide a fixed physical location for the data collected from IoT devices
+C)The collection point is near devices in motion
+D)Increased latency in reporting and response back
+
+Answer: C
+
+Question 2
+What is the three-way symbiotic relationship between IoT, AI, and Cloud?
+
+A)Power, scale, dynamic nature, and economics of the cloud resources
+B)AI consumes the data produced by IoT devices 
+C)IoT delivers the data, AI powers the insights, and both emerging technologies leverage Cloud's scalability and processing power
+D)Making sense of the endless streams of data from IoT devices
+
+Answer: C
+
+Question 3
+What is the three-way relationship between blockchain, AI, and the Cloud?
+
+A)Blockchain provides the trusted, decentralized source of truth, AI powers the analytics and decisions made from the collected data, and Cloud provides the globally distributed, scalable, and cost-efficient computing resources to support both technologies.
+B)Blockchain provides an immutable network allowing members to view only those transactions that are relevant to them.
+C)Lends trust and transparency to AI by recording the data and variables that go into a decision made in an AI algorithm.
+D)Globally distributed, scalable, and cost-efficient computing resources.
+
+Answer: A
