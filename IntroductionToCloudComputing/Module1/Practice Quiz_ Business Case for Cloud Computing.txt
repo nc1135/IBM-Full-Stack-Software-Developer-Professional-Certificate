@@ -1,0 +1,19 @@
+Question 1
+How did UBank leverage the cloud to remove barriers to innovation?   
+
+A)By establishing a scalable hosting platform for low-latency delivery to enterprise customers around the world 
+B)By migrating their trading systems from on-premises infrastructure to IBM Cloud for VMware solutions
+C)By adopting a PaaS cloud development model to streamline development and empower product teams
+D)By modernizing their customer-facing apps based on monolithic code into cloud-native based microservices architecture on the cloud
+
+Answer: C
+
+Question 2
+Which of the following is a risk that businesses run if they do not adopt cloud?   
+
+A)Lack of standardization
+B)Data security 
+C)Lack of Decision-making capacity
+D)Compliance issues
+
+Answer: C
