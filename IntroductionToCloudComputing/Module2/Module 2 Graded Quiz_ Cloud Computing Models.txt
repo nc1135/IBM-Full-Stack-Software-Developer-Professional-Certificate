@@ -1,0 +1,104 @@
+Question 1
+In which cloud service model does the service provider manage the application data along with the infrastructure and platform resources?
+
+A)CaaS
+B)PaaS
+C)IaaS
+D)SaaS
+
+Answer: D
+
+Question 2
+In which IaaS cloud environment can the customers deploy their middleware and install applications?
+
+A)Virtual Machines
+B)AI
+C)Blockchain
+D)IoT
+
+Answer: A
+
+Question 3
+What is one of the concerns in cloud infrastructure configuration and management?
+
+
+A)Solving complex problems involving millions of variables and calculations
+B)Business continuity and disaster recovery
+C)Dependency on a third party for workload availability and performance
+D)Scaling infrastructure up and down as demand fluctuates
+
+Answer: C
+
+Question 4
+What is the responsibility of a user in the PaaS model?
+
+
+A)Application code and its maintenance
+B)Workload management
+C)Database management systems
+D)Business process management systems
+
+Incorrect
+Incorrect. Review the Platform-as-a-Service video.
+
+Question 5
+Which capability in the PaaS model eliminates the need for the integration of disparate components?
+
+A)Runtime environment
+B)APIs for services
+C)Rapid deployment mechanisms
+D)Business analytics services
+
+Answer: B
+
+Question 6
+Which is a characteristic of the SaaS model?
+
+A)Infrastructure and code are maintained by the users
+B)Users can see only their own application
+C)Applications reside on a remote cloud network
+D)Services are free for the users on the SaaS cloud
+
+Incorrect
+Incorrect. Review the Software-as-a-Service video.
+
+Question 7
+What is the users’ role in a public cloud?   
+
+A)Users can manage the operations of the servers
+B)Users own the storage their data consumes
+C)Users don’t own the servers their applications run on
+D)Users maintain the platform that runs their application
+
+Incorrect
+Incorrect. Review the Public Cloud video.
+
+Question 8
+What is a feature of a private cloud?   
+
+A)Use of external computing resources
+B)Application portability
+C)Limited security
+D)Uncontrolled access
+
+Answer: B
+
+Question 9
+If an organization needs to run a highly sensitive and mission-critical application with unpredictable performance and capacity requirements, which of the following models would best meet its requirements?   
+
+A)Hybrid Cloud
+B)On-premise Data Centers
+C)Private Cloud
+D)Public Cloud
+
+Answer: A
+
+Question 10
+What do you mean by “cloud bursting”?   
+
+A)You can incrementally modernize your core business systems
+B)You can move applications and data between on-premises and cloud systems
+C)You can leverage public cloud instances for a period of time but return to the private cloud when the surge is met
+D)You can spin-up environments using pay-as-you-go in the public cloud
+
+Answer: C
