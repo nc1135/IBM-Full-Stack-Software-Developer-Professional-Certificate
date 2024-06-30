@@ -1,0 +1,39 @@
+Question 1
+In the car analogy used in the video to explain and differentiate between the three service models, which of the provided options is an analogy for PaaS?
+
+A)Renting a car
+B)Leasing a car
+C)Buying a car
+D)Hiring a taxi
+
+Answer: A
+
+Question 2
+Which is a characteristic of cloud infrastructure as a service model?
+
+A)Users can access networking resources on the cloud through virtualization
+B)Data can only be stored on physical machines in the network
+C)End users interact directly with the physical infrastructure
+D)No supporting services provided by IaaS
+
+Answer: A
+
+Question 3
+Which of these scenarios are good use cases for PaaS?
+
+A)Organizations who want the maintenance of their applications to be done by the service provider
+B)Organizations who want to maintain full control over the installation, configuration, and operation of their application infrastructure
+C)Organizations who want to manage the lower-level details of the application environment
+D)IoT deployment
+
+Answer: D
+
+Question 4
+Which one of the following is a good use case for SaaS?
+
+A)Business-critical applications
+B)Organizations that have a geographically spread workforce, some of them working in areas with erratic or unreliable internet connections
+C)Applications that have highly confidential and sensitive data
+D)Organizations looking to reduce on-premises IT infrastructure and capital expenditure
+
+Answer: D
