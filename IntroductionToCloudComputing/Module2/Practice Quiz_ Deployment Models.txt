@@ -1,0 +1,31 @@
+Question 1
+Which of these scenarios are good use cases for Public Cloud? Select two.   
+
+
+A)Applications with stable capacity and resourcing needs
+B)Disaster recovery, data protection, and business continuity
+C)Reducing time-to-market for products and services
+D)Managing business critical platforms and applications
+
+Answer: B,C
+
+Question 2
+What do we mean when we say that the Hybrid Cloud is interoperable?   
+
+A)You are no longer locked-in with a specific vendor 
+B)The public and private cloud services can understand each other’s APIs, configuration, data formats, and forms of authentication and authorization
+C)When there is a spike in demand, a workload running on the private cloud can leverage the additional public cloud capacity
+D)Organizations can choose to run their sensitive workloads on a private cloud
+
+Answer: B
+
+Question 3
+What is the benefit of using private cloud?   
+
+
+A)Common access to all with minimum security
+B)Ability to provision limited resources saving costs
+C)Ability to better utilize external resources outside organization
+D)Leverage usage of systems directly controlled by organization
+
+Answer: D
