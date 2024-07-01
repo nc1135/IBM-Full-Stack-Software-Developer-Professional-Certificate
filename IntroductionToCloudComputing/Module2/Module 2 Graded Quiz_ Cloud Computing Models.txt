@@ -59,8 +59,7 @@ B)Users can see only their own application
 C)Applications reside on a remote cloud network
 D)Services are free for the users on the SaaS cloud
 
-Incorrect
-Incorrect. Review the Software-as-a-Service video.
+Answer: C
 
 Question 7
 What is the users’ role in a public cloud?   
@@ -70,8 +69,7 @@ B)Users own the storage their data consumes
 C)Users don’t own the servers their applications run on
 D)Users maintain the platform that runs their application
 
-Incorrect
-Incorrect. Review the Public Cloud video.
+Answer: C
 
 Question 8
 What is a feature of a private cloud?   
