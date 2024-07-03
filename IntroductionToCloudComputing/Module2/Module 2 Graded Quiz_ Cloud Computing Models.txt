@@ -38,8 +38,7 @@ B)Workload management
 C)Database management systems
 D)Business process management systems
 
-Incorrect
-Incorrect. Review the Platform-as-a-Service video.
+Answer: A
 
 Question 5
 Which capability in the PaaS model eliminates the need for the integration of disparate components?
